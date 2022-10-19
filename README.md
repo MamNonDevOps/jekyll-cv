@@ -19,10 +19,4 @@ Free theme for the creation of your CV. View demo [here](https://jekyll-cv.stavr
 - Replace dummy data at ```_data/data.yml``` and ```_config.yml```
 - You're done!
 
-Go to https://username.github.io/jekyll-cv/
-
-## Contributing 
-- Feel free to open issues and create pull requests for new features or skins
-
-## License
-- [MIT](./LICENSE)
+Go to https://username.github.io/cv/
