@@ -1,35 +1,31 @@
-name: John Doe
+name: Nguyen Van Khoi
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: 108000.cloud@gmail.com
+  github: MamNonDevOps
+  linkedin: 
+  phone: 0969367787
   gitlab: 
   twitter: 
 
 languages:
+  - idiom: Vietnamese
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Japanese
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Electronics and Communications Engineering
+    time: 2014-2020
+    university: Hanoi University of Science and Technology
 
 skills:
   - category: Backend
     skill: 
       - Go
-      - Rust
+      - NodeJS
   - category: Frontend
     skill:
       - React
